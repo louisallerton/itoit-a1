@@ -28,7 +28,7 @@ Not the kind to rest at the peak, Im gonna make a mark.
 <br>
 ***wish me luck***  
 
-[about]: /about/
+[about]: /_pages/about.md
 
 
 
