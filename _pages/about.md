@@ -11,7 +11,7 @@ header:
 Im an aspiring young individual setting my roots inside the `IT industry`.  
 This page you have visited is my first venture into IT Projects using `GitHub`.
 
-If want to Learn a bit more about the way I work and what makes me tick, check out my [Personal Profile][pp].  
+If want to Learn a bit more about the way I work and what makes me tick, check out my [Personal Profile][pp] post.  
 
 
  <br> 

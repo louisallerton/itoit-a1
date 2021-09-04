@@ -7,6 +7,7 @@ toc: true
 
 header:
   image: /assets/images/ban-home.png
+  text: yo
 ---
 
 *Louis Allerton RMIT ITOIT Assessment 1*  
@@ -16,7 +17,7 @@ I can reflect on this content and what I learned to help make future career choi
 
 
 With that in mind, I'm here for a good time and will participate in any exciting project with deligence.  
-Not the kind to rest at the peak, Im gonna make a mark.
+Not the kind to rest at the peak, I'm gonna make a mark.
 
 ### What You'll Find Here:
 
@@ -28,7 +29,7 @@ Not the kind to rest at the peak, Im gonna make a mark.
 <br>
 ***wish me luck***  
 
-[about]: /_pages/about.md
+[about]: /about/
 
 
 
