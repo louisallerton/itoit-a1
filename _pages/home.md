@@ -1,13 +1,24 @@
 ---
+
 title: Home
-type: pages
 layout: home
 permalink: /
-toc: true
-
+toc: false
+  
 header:
-  image: /assets/images/ban-home.png
-  text: yo
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/ban-home.png
+  actions:
+    - label: "Download"
+      url: "https://github.com/mmistakes/minimal-mistakes/"
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+intro: 
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, 
+  *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  
+author_profile: true
+
 ---
 
 *Louis Allerton RMIT ITOIT Assessment 1*  
