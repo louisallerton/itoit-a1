@@ -40,7 +40,7 @@ Not the kind to rest at the peak, I'm gonna make a mark.
 <br>
 ***wish me luck***  
 
-[about]: /about/
+[about]: /itoit-a1/about/
 
 
 

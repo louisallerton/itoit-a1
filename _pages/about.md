@@ -29,6 +29,6 @@ If want to Learn a bit more about the way I work and what makes me tick, check o
 [2]: https://en.wikipedia.org/wiki/Kinetic_Dynamic_Suspension_System
 [3]: https://no-rock.com/
 [4]: https://www.nauti-craft.com/
-[pp]: /pp/
+[pp]: /itoit-a1/pp/
 <br>
 **email:** *louisallerton@gmail.com*
